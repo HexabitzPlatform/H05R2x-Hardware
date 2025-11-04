@@ -1,0 +1,355 @@
+Wire List
+
+<<< Component List >>>
+CL10B104KA8NNNC                 C1             C0603
+CL21X475KAQNNNE                 C2             C0805
+CL10B104KA8NNNC                 C3             C0603
+CC0805KKX7R7BB105               C4             C0805
+CL10B104KA8NNNC                 C5             C0603
+4.7uF 0402 10%                  C6             FP-GRM188-0_2-IPC_A
+22 pf 100 V 5% 0402             C7             CAPC1005X61X26LL10T16
+470 pf 50 V 5% 0402             C8             FP-C0402-BB-MFG
+10 uF 16V 10% 0402              C9             FP-GRM21B-0_1-IPC_B
+22 pf 100 V 5% 0402             C10            CAPC1005X61X26LL10T16
+4.7uF 10% 0402                  C11            FP-GRM188-0_2-IPC_A
+1uF 25V 10% 0402                C12            FP-GRM155-0_05-IPC_C
+47 pF 100V 5% 0402              C13            FP-GQM155-0_05-IPC_A
+47 pF 100V 5% 0402              C14            FP-GQM155-0_05-IPC_A
+10nF 16V 0402                   C15            CAPC1005X60X26LL10T16
+0.1uF 10V 0402                  C16            FP-C0402-BB-MFG
+CDSOD323-T03SC                  D1             SOD2513X114N
+MBR0540T1G                      D2             ONSC-SOD-123-2-425-04_V
+MBR0540T1G                      D3             ONSC-SOD-123-2-425-04_V
+MBR0540T1G                      D5             ONSC-SOD-123-2-425-04_V
+MBR0540T1G                      D6             ONSC-SOD-123-2-425-04_V
+MMZ1608Y300B                    FB1            FP-MMZ1608-0_8-MFG
+HEXABIT_UART_PORT               GND1           HEXABIT_POWER_PORT_D
+HEXABIT_UART_PORT               GND2           HEXABIT_POWER_PORT_D
+HEXABIT_UART_PORT               GND3           HEXABIT_POWER_PORT_D_300R
+HEXABIT_UART_PORT               GND4           HEXABIT_POWER_PORT_D
+HEXABIT_UART_PORT               GND5           HEXABIT_POWER_PORT_D
+HEXABIT_UART_PORT               GND6           HEXABIT_POWER_PORT_D
+HEXABIT_UART_PORT               GND7           HEXABIT_POWER_PORT_D
+HEXABIT_UART_PORT               GND8           HEXABIT_POWER_PORT_D_300L
+HEXABIT_UART_PORT               GND9           HEXABIT_POWER_PORT_D
+HEXABIT_UART_PORT               GND10          HEXABIT_POWER_PORT_D
+TSW-103-14-G-S                  J1             FP-TSW-103-14-G-S-MFG
+47uH 5% 1206                    L1             FP-LQH31CN_03-MFG
+VLMS1300-GS08                   LED1           FP-6_541-5092_01-4-MFG
+VLMS1300-GS08                   LED2           FP-6_541-5092_01-4-MFG
+2-Pin Connector                 P1             679302124022
+TSM-105-01-L-SV                 P2             SMTC-TSM-105-01-X-SV
+2N7002-7-F                      Q1             FP-SOT23-MFG
+2N7002-7-F                      Q2             FP-SOT23-MFG
+Manufacturer Part Number        R1             R0603
+Manufacturer Part Number        R2             R0603
+Manufacturer Part Number        R3             R0603
+11k 0402 1%                     R4             FP-CRCW0402-e3-IPC_B
+3.9k 0402 1%                    R5             FP-RN73R1E-IPC_C
+1k 0402 1%                      R6             FP-AC0402-IPC_C
+820R 0402 1% 50V                R7             FP-MCS0402-IPC_C
+1k 0402 1%                      R8             FP-RNCP0402-IPC_C
+11k 0402 1%                     R9             FP-CRCW0402-e3-IPC_B
+0.1R 1% 0402                    R10            FP-CSR0402-IPC_A
+20k 0402 1%                     R11            FP-TFCR0402-IPC_A
+1k 0402 1%                      R12            FP-RNCP0402-IPC_C
+1k 0402 1%                      R13            FP-RNCP0402-IPC_C
+10k 1% 0402                     R14            RESC1005X40X25LL10T10
+HEXABIT_UART_PORT               SD1            HEXABIT_UART_PORT_D
+HEXABIT_UART_PORT               SD2            HEXABIT_UART_PORT_D
+HEXABIT_UART_PORT               SD3            HEXABIT_UART_PORT_D
+HEXABIT_UART_PORT               SD4            HEXABIT_UART_PORT_D
+HEXABIT_UART_PORT               SD5            HEXABIT_UART_PORT_D
+HEXABIT_UART_PORT               SU1            HEXABIT_UART_PORT_U
+HEXABIT_UART_PORT               SU2            HEXABIT_UART_PORT_U
+HEXABIT_UART_PORT               SU3            HEXABIT_UART_PORT_U
+HEXABIT_UART_PORT               SU4            HEXABIT_UART_PORT_U
+HEXABIT_UART_PORT               SU5            HEXABIT_UART_PORT_U
+STM32G0B1CEU6                   U1             QFN50P700X700X65-49N-D
+MCP1755S-3302E/DB               U2             FP-C04-032-MFG
+MCP73830LT-0AAI/MYY             U3             FP-C04-078-IPC_C
+MCP6001                         U4             SOT-23-OT5_L
+PIC16F15313T-I/SN               U5             FP-C04-057-MFG
+HEXABIT_UART_PORT               VDD1           HEXABIT_POWER_PORT_U
+HEXABIT_UART_PORT               VDD2           HEXABIT_POWER_PORT_U
+HEXABIT_UART_PORT               VDD3           HEXABIT_POWER_PORT_U_300R
+HEXABIT_UART_PORT               VDD4           HEXABIT_POWER_PORT_U
+HEXABIT_UART_PORT               VDD5           HEXABIT_POWER_PORT_U
+HEXABIT_UART_PORT               VDD6           HEXABIT_POWER_PORT_U
+HEXABIT_UART_PORT               VDD7           HEXABIT_POWER_PORT_U
+HEXABIT_UART_PORT               VDD8           HEXABIT_POWER_PORT_U_300L
+HEXABIT_UART_PORT               VDD9           HEXABIT_POWER_PORT_U
+HEXABIT_UART_PORT               VDD10          HEXABIT_POWER_PORT_U
+CSTCE8M00G52Z-R0                X1             XTALL_CSTCE8M00G52
+
+<<< Wire List >>>
+
+  NODE  REFERENCE  PIN #   PIN NAME       PIN TYPE    PART VALUE
+
+[00076] VSSA
+        C1         1       1              PASSIVE     CL10B104KA8NNNC
+        C2         2       2              PASSIVE     CL21X475KAQNNNE
+        C3         1       1              PASSIVE     CL10B104KA8NNNC
+        C4         1       1              PASSIVE     CC0805KKX7R7BB105
+        R2         2       2              PASSIVE     Manufacturer Part Number
+        U1         7       VSS/VSSA       PASSIVE     STM32G0B1CEU6
+
+[00075] VREC
+        C9         1       1              PASSIVE     10 uF 16V 10% 0402
+        D2         2       A              PASSIVE     MBR0540T1G
+        D3         2       A              PASSIVE     MBR0540T1G
+        R4         1       1              PASSIVE     11k 0402 1%
+        R7         1       1              PASSIVE     820R 0402 1% 50V
+        U2         1       VIN            POWER       MCP1755S-3302E/DB
+
+[00074] VDDA
+        C1         2       2              PASSIVE     CL10B104KA8NNNC
+        C2         1       1              PASSIVE     CL21X475KAQNNNE
+        C3         2       2              PASSIVE     CL10B104KA8NNNC
+        C4         2       2              PASSIVE     CC0805KKX7R7BB105
+        FB1        2       2              PASSIVE     MMZ1608Y300B
+        U1         4       VBAT           PASSIVE     STM32G0B1CEU6
+        U1         5       VREF+          PASSIVE     STM32G0B1CEU6
+        U1         6       VDD/VDDA       PASSIVE     STM32G0B1CEU6
+
+[00073] VDD
+        D1         2       C              PASSIVE     CDSOD323-T03SC
+        FB1        1       1              PASSIVE     MMZ1608Y300B
+        VDD1       Pwr_U   Pwr_U          PASSIVE     HEXABIT_UART_PORT
+        VDD2       Pwr_U   Pwr_U          PASSIVE     HEXABIT_UART_PORT
+        VDD3       Pwr_U   Pwr_U          PASSIVE     HEXABIT_UART_PORT
+        VDD4       Pwr_U   Pwr_U          PASSIVE     HEXABIT_UART_PORT
+        VDD5       Pwr_U   Pwr_U          PASSIVE     HEXABIT_UART_PORT
+        VDD6       Pwr_U   Pwr_U          PASSIVE     HEXABIT_UART_PORT
+        VDD7       Pwr_U   Pwr_U          PASSIVE     HEXABIT_UART_PORT
+        VDD8       Pwr_U   Pwr_U          PASSIVE     HEXABIT_UART_PORT
+        VDD9       Pwr_U   Pwr_U          PASSIVE     HEXABIT_UART_PORT
+        VDD10      Pwr_U   Pwr_U          PASSIVE     HEXABIT_UART_PORT
+
+[00072] UART5_TX
+        SU4        UART_U  UART_U         PASSIVE     HEXABIT_UART_PORT
+        U1         42      PB3            PASSIVE     STM32G0B1CEU6
+
+[00071] UART5_RX
+        SD4        UART_D  UART_D         PASSIVE     HEXABIT_UART_PORT
+        U1         41      PD3            PASSIVE     STM32G0B1CEU6
+
+[00070] UART4_TX
+        SU1        UART_U  UART_U         PASSIVE     HEXABIT_UART_PORT
+        U1         11      PA0            PASSIVE     STM32G0B1CEU6
+
+[00069] UART4_RX
+        SD1        UART_D  UART_D         PASSIVE     HEXABIT_UART_PORT
+        U1         12      PA1            PASSIVE     STM32G0B1CEU6
+
+[00068] UART3_TX
+        SU5        UART_U  UART_U         PASSIVE     HEXABIT_UART_PORT
+        U1         47      PB8            PASSIVE     STM32G0B1CEU6
+
+[00067] UART3_RX
+        SD5        UART_D  UART_D         PASSIVE     HEXABIT_UART_PORT
+        U1         48      PB9            PASSIVE     STM32G0B1CEU6
+
+[00066] UART2_TX
+        SU2        UART_U  UART_U         PASSIVE     HEXABIT_UART_PORT
+        U1         13      PA2            PASSIVE     STM32G0B1CEU6
+
+[00065] UART2_RX
+        SD2        UART_D  UART_D         PASSIVE     HEXABIT_UART_PORT
+        U1         14      PA3            PASSIVE     STM32G0B1CEU6
+
+[00064] UART1_TX
+        SU3        UART_U  UART_U         PASSIVE     HEXABIT_UART_PORT
+        U1         29      PA9            PASSIVE     STM32G0B1CEU6
+
+[00063] UART1_RX
+        SD3        UART_D  UART_D         PASSIVE     HEXABIT_UART_PORT
+        U1         32      PA10           PASSIVE     STM32G0B1CEU6
+
+[00062] NRST
+        C5         2       2              PASSIVE     CL10B104KA8NNNC
+        J1         3       3              PASSIVE     TSW-103-14-G-S
+        U1         10      PF2-NRST       PASSIVE     STM32G0B1CEU6
+
+[00036] NetU1_9
+        U1         9       PF1-OSC_OUT    PASSIVE     STM32G0B1CEU6
+        X1         P$1     1              PASSIVE     CSTCE8M00G52Z-R0
+
+[00035] NetU1_8
+        U1         8       PF0-OSC_IN     PASSIVE     STM32G0B1CEU6
+        X1         P$3     3              PASSIVE     CSTCE8M00G52Z-R0
+
+[00031] NetR11_2
+        R11        2       2              PASSIVE     20k 0402 1%
+        R12        1       1              PASSIVE     1k 0402 1%
+        U4         4       VIN-           INPUT       MCP6001
+
+[00030] NetR6_2
+        R6         2       2              PASSIVE     1k 0402 1%
+        U3         2       STAT           PASSIVE     MCP73830LT-0AAI/MYY
+
+[00029] NetR5_1
+        R5         1       1              PASSIVE     3.9k 0402 1%
+        U3         6       PROG           PASSIVE     MCP73830LT-0AAI/MYY
+
+[00028] NetQ1_1
+        Q1         1       G              PASSIVE     2N7002-7-F
+        Q2         1       G              PASSIVE     2N7002-7-F
+        R14        2       2              PASSIVE     10k 1% 0402
+
+[00027] NetLED2_1
+        LED2       1                      PASSIVE     VLMS1300-GS08
+        R6         1       1              PASSIVE     1k 0402 1%
+
+[00026] NetLED1_2
+        LED1       2                      PASSIVE     VLMS1300-GS08
+        U1         19      PB0            PASSIVE     STM32G0B1CEU6
+
+[00025] NetLED1_1
+        LED1       1                      PASSIVE     VLMS1300-GS08
+        R1         2       2              PASSIVE     Manufacturer Part Number
+
+[00024] NetLabel14
+        R11        1       1              PASSIVE     20k 0402 1%
+        U4         1       VOUT           OUTPUT      MCP6001
+
+[00023] NetLabel13
+        R13        2       2              PASSIVE     1k 0402 1%
+
+[00022] NetLabel12
+        R9         2       2              PASSIVE     11k 0402 1%
+        U3         5       C\E\           INPUT       MCP73830LT-0AAI/MYY
+
+[00021] NetLabel11
+        C12        1       1              PASSIVE     1uF 25V 10% 0402
+        R4         2       2              PASSIVE     11k 0402 1%
+        R8         1       1              PASSIVE     1k 0402 1%
+
+[00020] NetLabel10
+        C9         2       2              PASSIVE     10 uF 16V 10% 0402
+        D5         1       K              PASSIVE     MBR0540T1G
+        D6         1       K              PASSIVE     MBR0540T1G
+        R10        1       1              PASSIVE     0.1R 1% 0402
+
+[00019] NetLabel9
+        U5         2       RA5            I/O         PIC16F15313T-I/SN
+
+[00018] NetLabel8
+        U5         3       RA4            I/O         PIC16F15313T-I/SN
+
+[00017] NetLabel7
+        U5         5       RA2            I/O         PIC16F15313T-I/SN
+
+[00016] NetLabel4
+        U5         4       VPP/M\C\L\R\/RAPOWER       PIC16F15313T-I/SN
+
+[00015] NetLabel3
+        P2         5       5              PASSIVE     TSM-105-01-L-SV
+
+[00014] NetLabel2
+        P2         4       4              PASSIVE     TSM-105-01-L-SV
+
+[00013] NetLabel1
+        P2         1       1              PASSIVE     TSM-105-01-L-SV
+
+[00012] NetC15_1
+        C15        1       1              PASSIVE     10nF 16V 0402
+        R12        2       2              PASSIVE     1k 0402 1%
+        R13        1       1              PASSIVE     1k 0402 1%
+
+[00011] NetC14_2
+        C14        2       2              PASSIVE     47 pF 100V 5% 0402
+        Q2         3       D              PASSIVE     2N7002-7-F
+
+[00010] NetC13_2
+        C13        2       2              PASSIVE     47 pF 100V 5% 0402
+        Q1         3       D              PASSIVE     2N7002-7-F
+
+[00009] NetC8_2
+        C8         2       2              PASSIVE     470 pf 50 V 5% 0402
+        C14        1       1              PASSIVE     47 pF 100V 5% 0402
+        D3         1       K              PASSIVE     MBR0540T1G
+        D6         2       A              PASSIVE     MBR0540T1G
+        L1         2       2              PASSIVE     47uH 5% 1206
+
+[00008] NetC7_2
+        C7         2       2              PASSIVE     22 pf 100 V 5% 0402
+        C8         1       1              PASSIVE     470 pf 50 V 5% 0402
+        C10        2       2              PASSIVE     22 pf 100 V 5% 0402
+        C13        1       1              PASSIVE     47 pF 100V 5% 0402
+        D2         1       K              PASSIVE     MBR0540T1G
+        D5         2       A              PASSIVE     MBR0540T1G
+
+[00007] NetC7_1
+        C7         1       1              PASSIVE     22 pf 100 V 5% 0402
+        C10        1       1              PASSIVE     22 pf 100 V 5% 0402
+        L1         1       1              PASSIVE     47uH 5% 1206
+
+[00006] NetC6_1
+        C6         1       1              PASSIVE     4.7uF 0402 10%
+        P1         2       2              PASSIVE     2-Pin Connector
+        U3         3       VBAT           POWER       MCP73830LT-0AAI/MYY
+
+[00005] GND
+        C5         1       1              PASSIVE     CL10B104KA8NNNC
+        C6         2       2              PASSIVE     4.7uF 0402 10%
+        C11        2       2              PASSIVE     4.7uF 10% 0402
+        C12        2       2              PASSIVE     1uF 25V 10% 0402
+        C15        2       2              PASSIVE     10nF 16V 0402
+        C16        2       2              PASSIVE     0.1uF 10V 0402
+        D1         1       A              PASSIVE     CDSOD323-T03SC
+        GND1       Pwr_D   Pwr_D          PASSIVE     HEXABIT_UART_PORT
+        GND2       Pwr_D   Pwr_D          PASSIVE     HEXABIT_UART_PORT
+        GND3       Pwr_D   Pwr_D          PASSIVE     HEXABIT_UART_PORT
+        GND4       Pwr_D   Pwr_D          PASSIVE     HEXABIT_UART_PORT
+        GND5       Pwr_D   Pwr_D          PASSIVE     HEXABIT_UART_PORT
+        GND6       Pwr_D   Pwr_D          PASSIVE     HEXABIT_UART_PORT
+        GND7       Pwr_D   Pwr_D          PASSIVE     HEXABIT_UART_PORT
+        GND8       Pwr_D   Pwr_D          PASSIVE     HEXABIT_UART_PORT
+        GND9       Pwr_D   Pwr_D          PASSIVE     HEXABIT_UART_PORT
+        GND10      Pwr_D   Pwr_D          PASSIVE     HEXABIT_UART_PORT
+        P1         1       1              PASSIVE     2-Pin Connector
+        P2         3       3              PASSIVE     TSM-105-01-L-SV
+        Q1         2       S              PASSIVE     2N7002-7-F
+        Q2         2       S              PASSIVE     2N7002-7-F
+        R1         1       1              PASSIVE     Manufacturer Part Number
+        R2         1       1              PASSIVE     Manufacturer Part Number
+        R3         2       2              PASSIVE     Manufacturer Part Number
+        R5         2       2              PASSIVE     3.9k 0402 1%
+        R7         2       2              PASSIVE     820R 0402 1% 50V
+        R8         2       2              PASSIVE     1k 0402 1%
+        R10        2       2              PASSIVE     0.1R 1% 0402
+        R14        1       1              PASSIVE     10k 1% 0402
+        U1         49      EPAD           PASSIVE     STM32G0B1CEU6
+        U2         2       GND            POWER       MCP1755S-3302E/DB
+        U3         1       VSS            POWER       MCP73830LT-0AAI/MYY
+        U3         7       EP             POWER       MCP73830LT-0AAI/MYY
+        U4         2       VSS            POWER       MCP6001
+        U4         3       VIN+           INPUT       MCP6001
+        U5         8       VSS            POWER       PIC16F15313T-I/SN
+        X1         P$2     2              PASSIVE     CSTCE8M00G52Z-R0
+
+[00004] DATA
+        J1         2       2              PASSIVE     TSW-103-14-G-S
+        U1         35      PA13           PASSIVE     STM32G0B1CEU6
+        U5         7       RA0/ICSPDAT    I/O         PIC16F15313T-I/SN
+
+[00003] CLK_BOOT
+        J1         1       1              PASSIVE     TSW-103-14-G-S
+        R3         1       1              PASSIVE     Manufacturer Part Number
+        U1         36      PA14-BOOT0     PASSIVE     STM32G0B1CEU6
+
+[00002] CLK BOOT
+        U5         6       RA1/ICSPCLK    I/O         PIC16F15313T-I/SN
+
+[00001] +5
+        C11        1       1              PASSIVE     4.7uF 10% 0402
+        C16        1       1              PASSIVE     0.1uF 10V 0402
+        LED2       2                      PASSIVE     VLMS1300-GS08
+        P2         2       2              PASSIVE     TSM-105-01-L-SV
+        R9         1       1              PASSIVE     11k 0402 1%
+        U2         3       VOUT           PASSIVE     MCP1755S-3302E/DB
+        U3         4       VDD            POWER       MCP73830LT-0AAI/MYY
+        U4         5       VDD            POWER       MCP6001
+        U5         1       VDD            POWER       PIC16F15313T-I/SN
+
