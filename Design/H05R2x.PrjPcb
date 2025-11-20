@@ -173,16 +173,16 @@ DocumentPath=Project Outputs for H01R0\H01R0.NET
 DItemRevisionGUID=
 
 [Parameter1]
-Name=revision
-Value=1
+Name=Module_Description
+Value=Wireless Charger Receiver
 
 [Parameter2]
 Name=Module_Name
 Value=H05R2x
 
 [Parameter3]
-Name=Module_Description
-Value=Wireless Charger Reciever
+Name=revision
+Value=1
 
 [Configuration1]
 Name=Sources
